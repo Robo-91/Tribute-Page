@@ -1,6 +1,4 @@
-# PROJECT NAME
-
-## Tribute Page
+# Tribute Page
 
 This Tribute Page is my implementation. The idea was taken as part of Free Code Camp's Curriculum. I constructed this webpage with the intent of practicing the fundamentals of HTML and CSS.
 
