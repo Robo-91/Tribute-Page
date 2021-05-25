@@ -14,14 +14,13 @@ List of features ready and TODOs for future development
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+*Ensure that you have Text editor installed on your machine. Visual Studio Code or Sublime should work fine.
+*Ensure that you have Git Bash installed
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+Navigate to the directory that you want to clone the repository in.
 
-- All the `code` required to get started
-- Images of what it should look like
+In you terminal or command prompt, type in the following command:
+> git clone https://github.com/Robo-91/Tribute-Page.git
 
 ## Usage
 
